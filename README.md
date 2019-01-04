@@ -14,6 +14,7 @@ At the very beginning , swarm size , archive size and number of iterations have 
 Then, the positions and velocities of each particle with respect to their individual dimensions have been initialised by calling the function init_PARTICLE_VALUES.initialise_PARTICLE_VALUES() and init_VELOCITY.initilaise_velocity() respectively.
 
 Next , fitness of each particle in the population is initialised based on the three objective functions --
+	
 	1. WEIGHTED T SCORE
 	2. WEIGHTED Z SCORE
 	3. PROTEIN PROTEIN INTERACTION SCORE
@@ -27,9 +28,10 @@ The DELETE_PARTICLE.delete_particle() function is used to delete dominated parti
 If the number of nondominated solutions exceed the given archive size then the function CROWDING.crowding_distance() helps to compute the crowding distances of the particles present in the archive to replace particles in the archive(if any)
 
 Computation of crowding distance consists of three steps --
-1.Fitness Values sorting
-2.Computation of Crowding Distances
-3.Sorting of particles present in the crowd
+
+	1.Fitness Values sorting
+	2.Computation of Crowding Distances
+	3.Sorting of particles present in the crowd
 
 After this , the particle Fitness Valius is again updated.
 
