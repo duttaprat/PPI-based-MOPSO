@@ -33,9 +33,7 @@ Computation of crowding distance consists of three steps --
 	2.Computation of Crowding Distances
 	3.Sorting of particles present in the crowd
 
-After this , the particle Fitness Values is again updated.
-
-Correspondingly, the Archive is again updated to insert new non-dominated Particles in the archive
+Correspondingly, the Archive is again updated to insert new non-dominated particles in the archive
 
 The Velocity , Position, personal Best Values of each particle in the population is updated subsequently.
 
