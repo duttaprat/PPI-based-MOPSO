@@ -7,7 +7,7 @@ Multi-Objective Particle Swarm Optimization , as the name suggests deals with mu
 
 This code is an implementation of MultiObjective Particle Swarm Optimization algorithm based on Crowding Distance values.
 
-MOPSO_MAIN contains the main function to execute the process.
+<b>MOPSO_MAIN</b> contains the main function to execute the process.
 
 At the very beginning , swarm size , archive size and number of iterations have been declared.
 
