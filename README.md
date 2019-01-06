@@ -1,9 +1,11 @@
 # Protein-protein-interaction-based-multi-objective particle-swarm-optimization
 
-Author :- Pratik Dutta, Sriparna Saha and Sukanya Naskar
+Authors :- Pratik Dutta, Sriparna Saha and Sukanya Naskar
 
 
-Multi-Objective Particle Swarm Optimization , as the name suggests deals with multiple objective functions alongside the PSO method to find the non-redundant particles from a population of given particles.
+Requirements : - Python 2.7, Numpy
+
+<b>Multi-Objective Particle Swarm Optimization</b> , as the name suggests deals with multiple objective functions alongside the PSO method to find the non-redundant particles from a population of given particles.
 
 This code is an implementation of MultiObjective Particle Swarm Optimization algorithm based on Crowding Distance values.
 
