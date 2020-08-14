@@ -6,7 +6,7 @@ A Multi-objective based PSO Approach for Inferring Pathway Activity utilizing Pr
 **Paper Name:-** [A Multi-objective based PSO Approach for Inferring Pathway Activity utilizing Protein Interactions]()
 
 - **Authors:** Pratik Dutta<sup>1</sup>, Sriparna Saha<sup>1</sup> and Sukanya Naskar<sup>2</sup>.
-- **Affiliation:** <sup>1</sup>Department of Computer Science and Engineering, Indian Institute of Technology Patna; <sup>2</sup> Department of Information Technology, Indian Institute of Engineering Science and Technology Shibpur.  
+- **Affiliation:** <sup>1</sup>Department of Computer Science and Engineering, Indian Institute of Technology Patna; <sup>2</sup>Department of Information Technology, Indian Institute of Engineering Science and Technology Shibpur.  
 - **Accepted:(03/04/2020)** [Multimedia Tools and Applications, Springer](https://www.springer.com/journal/11042/)
 
 
