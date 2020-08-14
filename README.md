@@ -1,4 +1,4 @@
-# Protein-protein-interaction-based-multi-objective particle-swarm-optimization
+# PPI-based-MOPSO
 A Multi-objective based PSO Approach for Inferring Pathway Activity utilizing Protein Interactions
 
 ## This is the readme file that contains the guidelines and information about the compilation of the code of the following paper
