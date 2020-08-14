@@ -1,6 +1,16 @@
 # Protein-protein-interaction-based-multi-objective particle-swarm-optimization
+A Multi-objective based PSO Approach for Inferring Pathway Activity utilizing Protein Interactions
 
-Authors :- Pratik Dutta, Sriparna Saha and Sukanya Naskar
+## This is the readme file that contains the guidelines and information about the compilation of the code of the following paper
+
+**Paper Name:-** [A Multi-objective based PSO Approach for Inferring Pathway Activity utilizing Protein Interactions]()
+
+- **Authors:** Pratik Dutta<sup>1</sup>, Sriparna Saha<sup>1</sup> and Sukanya Naskar<sup>2</sup>.
+- **Affiliation:** <sup>1</sup>Department of Computer Science and Engineering, Indian Institute of Technology Patna; <sup>2</sup> Department of Information Technology, Indian Institute of Engineering Science and Technology Shibpur.  
+- **Accepted:(03/04/2020)** [Multimedia Tools and Applications, Springer](https://www.springer.com/journal/11042/)
+
+
+
 
 
 Requirements : - Python 2.7, Numpy
