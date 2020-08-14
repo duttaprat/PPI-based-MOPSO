@@ -7,7 +7,7 @@ A Multi-objective based PSO Approach for Inferring Pathway Activity utilizing Pr
 
 - **Authors:** Pratik Dutta<sup>1</sup>, Sriparna Saha<sup>1</sup> and Sukanya Naskar<sup>2</sup>.
 - **Affiliation:** <sup>1</sup>Department of Computer Science and Engineering, Indian Institute of Technology Patna; <sup>2</sup>Department of Information Technology, Indian Institute of Engineering Science and Technology Shibpur.  
-- **Accepted:(03/04/2020):** [Multimedia Tools and Applications, Springer](https://www.springer.com/journal/11042/)
+- **Accepted:(26/06/2020):** [Multimedia Tools and Applications, Springer](https://www.springer.com/journal/11042/)
 
 
 
@@ -48,4 +48,10 @@ Computation of crowding distance consists of three steps --
 Correspondingly, the Archive is again updated to insert new non-dominated particles in the archive
 
 The Velocity , Position, personal Best Values of each particle in the population is updated subsequently.
+
+
+
+## Contribution
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
 
