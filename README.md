@@ -10,6 +10,11 @@ A Multi-objective based PSO Approach for Inferring Pathway Activity utilizing Pr
 - **Accepted:(26/06/2020):** [Multimedia Tools and Applications, Springer](https://www.springer.com/journal/11042/)
 
 
+## Description
+
+In this work, we have implemented a protein interaction information-based multi-objective particle swarm optimization(MOPSO) technique.
+
+
 
 
 
